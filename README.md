@@ -1,2 +1,2 @@
 - Information Systems Student
-- Studying Python
+- Python Studying 
